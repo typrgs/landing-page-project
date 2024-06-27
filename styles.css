@@ -111,6 +111,7 @@ body{
   display: flex;
   flex-direction: column;
   align-items: center;
+  width: 13vw;
   gap: 5px;
 }
 
@@ -129,3 +130,4 @@ body{
   text-align: center;
   color: grey;
 }
+
