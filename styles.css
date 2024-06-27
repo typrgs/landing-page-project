@@ -38,10 +38,9 @@ body{
 
 .under-header{
   display: flex;
-  padding: 12px;
   justify-content: space-between;
   width: 80vw;
-  padding: 80px 0px;
+  padding: 75px 0px;
 }
 
 .top-text-container{
@@ -90,9 +89,9 @@ body{
 .second-section{
   display: flex;
   flex-direction: column;
-  gap: 20px;
+  gap: 30px;
   align-items: center;
-  padding: 30px;
+  padding: 35px;
 }
 
 .second-top-text{
@@ -126,7 +125,7 @@ body{
 
 .rounded-img-desc{
   font-size: 12px;
-  width: 125px;
+  width: 115px;
   text-align: center;
   color: grey;
 }
